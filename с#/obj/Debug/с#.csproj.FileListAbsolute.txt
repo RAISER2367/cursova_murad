@@ -1,0 +1,10 @@
+X:\cursova_murad\с#\bin\Debug\с#.exe.config
+X:\cursova_murad\с#\bin\Debug\с#.exe
+X:\cursova_murad\с#\bin\Debug\с#.pdb
+X:\cursova_murad\с#\obj\Debug\с#.csproj.AssemblyReference.cache
+X:\cursova_murad\с#\obj\Debug\с_.Form1.resources
+X:\cursova_murad\с#\obj\Debug\с_.Properties.Resources.resources
+X:\cursova_murad\с#\obj\Debug\с#.csproj.GenerateResource.cache
+X:\cursova_murad\с#\obj\Debug\с#.csproj.CoreCompileInputs.cache
+X:\cursova_murad\с#\obj\Debug\с#.exe
+X:\cursova_murad\с#\obj\Debug\с#.pdb
