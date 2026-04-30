@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TitleFrame">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEAAAAAAAAAAAAAAABAACAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>TitleFrame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrameManager">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAMAAACgEAAAAACAAAAAAAQAAAIAAEIAAAAAQAAEAA=</HashCode>
+      <FileName>FrameManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrameIterator">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAQAAgAAAAAAAAAEgAAAAAAA=</HashCode>
+      <FileName>FrameIterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseFrame">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAMgARAAAAQAAAAAAgAgABAgAAEABAA=</HashCode>
+      <FileName>BaseFrame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,4 +1,4 @@
-﻿namespace с_
+﻿namespace csharp
 {
     partial class Form1
     {
